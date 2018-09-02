@@ -1,6 +1,6 @@
 {
     "name":"Ahmed",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "photo":"https://static01.nyt.com/images/2014/01/28/science/28SLOT_SPAN/28SLOT-master1050.jpg",
     "scores":[
         ,
         1,
@@ -16,7 +16,7 @@
   },
   {
     "name":"Mark",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "photo":"http://www.theslothinstitutecostarica.org/wp-content/uploads/2014/08/Jon-Snow.jpg",
     "scores":[
         2,
         1,
@@ -32,7 +32,7 @@
   },
   {
     "name":"Bob",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "photo":"https://i.pinimg.com/736x/aa/f3/98/aaf3983c02ca5c73454d6194c3669b3f.jpg",
     "scores":[
         1,
         1,
@@ -48,7 +48,7 @@
   },
   {
     "name":"Jon",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "photo":"http://3.bp.blogspot.com/-NW-FQOm14I4/Tt905_JVVWI/AAAAAAAAAkI/-mX7Pm527Ps/s1600/Sloth-8.jpg",
     "scores":[
         5,
         5,
