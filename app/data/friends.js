@@ -1,4 +1,4 @@
-friendsArray [
+var friendsArray = [
     {
         "name":"Ahmed",
         "photo":"https://static01.nyt.com/images/2014/01/28/science/28SLOT_SPAN/28SLOT-master1050.jpg",
